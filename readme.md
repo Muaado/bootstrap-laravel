@@ -1,3 +1,5 @@
-## Muaado Bootstrap
+## Muaado Bootstrap Application
 
-My Bootstrap laravle app
+My Bootstrap laravel app
+
+***muaaado@gmail.com
